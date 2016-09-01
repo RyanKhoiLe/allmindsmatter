@@ -12,6 +12,10 @@ html{
 .trifoldIcon{
   max-width: 40%;
 }
+.trifold h2{
+  padding-left: 6px;
+  padding-right: 6px;
+}
 .halfFold{
   width: 100%;
   margin-bottom: 20px;
